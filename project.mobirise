@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,20 +17,11 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/images-128x83-1.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-177328622-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-177328622-1');\r\n</script>\r\n",
     "siteUrl": "undefined",
-    "uniqCompNum": 20,
+    "uniqCompNum": 16,
     "versionPublish": "4.10.6",
-    "screenshot": "screenshot.png",
-    "cookiesAlert": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#d9534f",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    }
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
