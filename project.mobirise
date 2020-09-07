@@ -47,9 +47,9 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#ffffff",
@@ -75,7 +75,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://intervencionsocial.github.io/intersocial/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_styles": {
@@ -112,7 +112,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "INTERSOCIAL",
           "text": "<b>Intervencion Social , Palenque,Chiapas</b>",
@@ -147,11 +147,11 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
-          "title": "InterSocial",
-          "text": "La <b>intervencion social&nbsp;</b> consiste en luchar contra todo aquello que se considere en contra de cualquier derecho de las personas. <b>La intervencion social</b> &nbsp;lucha en contra de las desigualdades, de la pobreza, de la violencia y, al fin y al cabo, de las injusticias en general. Se puede llevar a cabo esta intervencion, a través de donaciones o colaboraciones con entidades que realicen trabajos con estos objetivos o bien por cuenta propia, aunque esto suele ser más complicado. En la actualidad existen numerosas asociaciones u organizaciones no gubernamentales que tienen como reto conseguir cambiar el mundo a mejor.<br>",
+          "title": "<b>InterSocial</b>",
+          "text": "<b>La intervencion social&nbsp; consiste en luchar contra todo aquello que se considere en contra de cualquier derecho de las personas. La intervencion social &nbsp;lucha en contra de las desigualdades, de la pobreza, de la violencia y, al fin y al cabo, de las injusticias en general. Se puede llevar a cabo esta intervencion, a través de donaciones o colaboraciones con entidades que realicen trabajos con estos objetivos o bien por cuenta propia, aunque esto suele ser más complicado. En la actualidad existen numerosas asociaciones u organizaciones no gubernamentales que tienen como reto conseguir cambiar el mundo a mejor.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">contactarnos</a>",
           "alias": "purity/components",
           "_tags": [
@@ -161,7 +161,11 @@
           "_anchor": "header2-j",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#000000"
+            },
+            "H1": {
+              "color": "#000000"
             }
           }
         },
@@ -182,10 +186,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayOpacity": "0.4"
           },
           "title": "<b>¿Qué se pretende con la Intervencion Social?\n</b>",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">La <b>Intervencion social</b> &nbsp;suele ir dirigida ciudadanos , a los jóvenes y a las mujeres. Tiene como objetivo provocar cambios y mejoras realmente efectivas en sus vidas, proporcionarles aquellas herramientas y conocimientos adecuados que les permitan conocer y ejercer de mejor forma sus derechos, siendo ellos mismos los propios protagonistas de su progreso. Todo esto llevado a cabo de la manera más transparente posible, rindiendo cuentas a los colaboradores de la <b>Intervencion Social</b> &nbsp;presta estos servicios y a aquellas personas que hacen posible que se puedan conseguir estos retos.</span><br></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\"><b>La Intervencion social &nbsp;suele ir dirigida ciudadanos , a los jóvenes y a las mujeres. Tiene como objetivo provocar cambios y mejoras realmente efectivas en sus vidas, proporcionarles aquellas herramientas y conocimientos adecuados que les permitan conocer y ejercer de mejor forma sus derechos, siendo ellos mismos los propios protagonistas de su progreso. Todo esto llevado a cabo de la manera más transparente posible, rindiendo cuentas a los colaboradores de la Intervencion Social &nbsp;presta estos servicios y a aquellas personas que hacen posible que se puedan conseguir estos retos.</b></span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
@@ -195,6 +199,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "30px"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           }
         },
@@ -215,10 +222,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayOpacity": "0.4"
           },
           "title": "¿Cómo puedes Intervenir?\n",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></p><p><span style=\"font-size: 1.25rem;\"><b>Mejorando Vida</b></span></p><p><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></p><p><span style=\"font-size: 1.25rem;\"><b>Colabora en proyectos solidarios\n</b></span></p><p><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></p><p><span style=\"font-size: 1.25rem;\">\n</span></p><p><span style=\"font-size: 1.25rem;\">Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.Leer Más</span><br></p>",
+          "caption": "<p><b><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>Mejorando Vida</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>Colabora en proyectos solidarios\n</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></b></p><p><span style=\"font-size: 1.25rem;\"><b>\n</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.Leer Más</b></span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
@@ -264,7 +271,7 @@
             "bgColor": "#26272c",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0"
           },
           "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
           "alias": "purity/components",
@@ -286,9 +293,9 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#ffffff",
@@ -314,7 +321,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://intervencionsocial.github.io/intersocial/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -368,7 +375,7 @@
             "bgColor": "#26272c",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0"
           },
           "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
           "alias": "purity/components",
@@ -390,9 +397,9 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "color": "#ffffff",
@@ -418,7 +425,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://intervencionsocial.github.io/intersocial/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -494,7 +501,7 @@
             "bgColor": "#26272c",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "0"
           },
           "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
           "alias": "purity/components",

@@ -12,9 +12,16 @@
 }
 #header2-j P {
   text-align: right;
+  color: #000000;
+}
+#header2-j H1 {
+  color: #000000;
 }
 #content5-l .mbr-section-title {
   font-size: 30px;
+}
+#content5-l DIV {
+  color: #000000;
 }
 #content5-n P {
   font-size: 15px;
