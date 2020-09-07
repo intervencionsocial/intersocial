@@ -1,11 +1,5 @@
-#ext_menu-g .navbar-toggler {
-  color: #5cb85c;
-}
-#ext_menu-g .nav-link {
-  font-size: 20px;
-}
-#ext_menu-g .navbar-brand {
-  font-size: 25px;
+#menu-i .navbar-toggler {
+  color: #000;
 }
 #msg-box5-g .mbr-section-title {
   color: #000000;
@@ -26,24 +20,12 @@
 #content5-n P {
   font-size: 15px;
 }
-#ext_menu-o .navbar-toggler {
-  color: #5cb85c;
-}
-#ext_menu-o .nav-link {
-  font-size: 20px;
-}
-#ext_menu-o .navbar-brand {
-  font-size: 25px;
-}
-#ext_menu-r .navbar-toggler {
-  color: #5cb85c;
-}
-#ext_menu-r .nav-link {
-  font-size: 20px;
-}
-#ext_menu-r .navbar-brand {
-  font-size: 25px;
+#menu-i .navbar-toggler {
+  color: #000;
 }
 #form1-s .mbr-section-title {
   color: #f8f8f6;
+}
+#menu-i .navbar-toggler {
+  color: #000;
 }

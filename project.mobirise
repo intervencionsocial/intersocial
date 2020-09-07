@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -44,23 +44,18 @@
       },
       "components": [
         {
-          "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
+            "color": "#fbfbfb",
+            "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "alias": "purity/components",
-          "_tags": [
-            "Tema"
-          ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -75,18 +70,16 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-g",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#5cb85c"
-            },
-            ".nav-link": {
-              "font-size": "20px"
-            },
-            ".navbar-brand": {
-              "font-size": "25px"
+              "color": "#000"
             }
           }
         },
@@ -157,9 +150,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1306.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -197,7 +190,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -246,7 +239,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "¿Cómo puedes Intervenir?\n",
-          "caption": "<p><b><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>1.- Mejorando Vida</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>2.- Colabora en proyectos solidarios\n</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></b></p><p><span style=\"font-size: 1.25rem;\"><b>\n</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>3.- Responsabilidad Social Corporativa</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.Leer Más</b></span><br></p>",
+          "caption": "<p><b><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>1.- Mejorando Vida</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>2.- Colabora en proyectos solidarios\n</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></b></p><p><span style=\"font-size: 1.25rem;\"><b>\n</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>3.- Responsabilidad Social Corporativa</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.<a href=\"page1.html\">Leer Más</a></b></span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
@@ -264,7 +257,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f2f2f2",
@@ -286,7 +279,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#26272c",
@@ -311,60 +304,13 @@
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
-          },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "alias": "purity/components",
-          "_tags": [
-            "Tema"
-          ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
-          "_name": "ext.menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5cb85c"
-            },
-            ".nav-link": {
-              "font-size": "20px"
-            },
-            ".navbar-brand": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "ext_menu-o"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -376,7 +322,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Easy to Use!",
+          "title": "Responsabilidad Social Corporativa",
           "caption": "<p>¿Qué te sugieren las palabras “responsabilidad social corporativa” o sus siglas RSC? ¿Empresa? ¿Sociedad? No vas mal encaminado. Pero, con el fin de que conozcas el tema mucho más a fondo, hoy queremos explicarte en qué consiste y cuáles son las principales formas de actuación de esta nueva visión del sector empresarial.\n</p><p>\n</p><p>Como ya mencionábamos antes, la responsabilidad social corporativa o RSC es una determinada forma de actuación que adoptan las empresas, basándose principalmente en los posibles impactos que su actividad puede ocasionar tanto en su entorno más cercano (los clientes y los empleados), como en el entorno que las rodea (la sociedad y el medio ambiente).</p><p>Si bien es cierto que la definición de responsabilidad social corporativa puede variar dependiendo de los diferentes puntos en los que esta se aplique, existen algunos conceptos o elementos básicos que no pueden faltar en ninguna de ellas y que será primordial tener siempre presente.\n</p><p>\n</p><p>Principios de la responsabilidad social corporativa o RSCl compromiso por parte de las empresas: para que esta visión se transmita a la sociedad a través de su actividad.\n</p><p>\n</p><p>La conducta ética: mediante la práctica de negocios que se consideren aceptables desde un punto de vista social, más allá de las propias expectativas de la actividad empresarial.\n</p><p>\n</p><p>La adaptabilidad: por la que la responsabilidad social corporativa variará en función de los objetivos de la misma y el entorno en el que se vaya a aplicar, procurando una accesibilidad lo más amplia posible para todo tipo de personas.\n</p><p>\n</p><p>El desempeño ambiental: porque ninguna sociedad puede llevar un buen nivel de vida en cuanto a bienestar sin un entorno propicio para ello.\n</p><p>\n</p><p>Todo esto cobra sentido en el momento en el que somos conscientes de que el concepto de responsabilidad social corporativa o RSC surge ante una mayor apertura del mundo, gracias a la globalización, pues es importante que, si vamos a abrirnos al mundo lo hagamos de una manera responsable y respetuosa.\n</p><p>\n</p><p>Una vez conocidas las bases de esta forma de actuación, podemos ver los principales beneficios que esta conlleva tanto para las empresas como para la sociedad en sí, responsables primeros de que esa iniciativa se encuentre cada vez más extendida.</p><p>Beneficios de las actividades en torno a la responsabilidad social corporativa o RSC\n</p><p>Los beneficios obtenidos son los siguientes:\n</p><p>\n</p><p>– Mejora en la productividad de los trabajadores, mediante el acceso a servicios que se encarguen del cuidado de sus hijos, por ejemplo.\n</p><p>\n</p><p>– Proporcionar una satisfacción asegurada por parte de los clientes. Esto puede abarcar desde una fuerte política de protección de datos hasta la integridad en la creación de los productos o servicios que se proporcionan a los clientes.</p><p>– Disminución de costes, tales como el de alquiler (gracias a la flexibilidad de los horarios), los costes por bajas médicas (gracias a políticas que aseguren el bienestar de los trabajadores dentro de la empresa), etc.\n</p><p>\n</p><p>– Mejora en la reputación y la imagen de la propia empresa, ya que el hecho de que esta se encuentre comprometida con los valores fundamentales tanto en pro de la sociedad, como del medio ambiente harán que la percepción que se tenga de ella sea mucho más positiva.\n</p><p>\n</p><p>– Contribución a la reducción de la pobreza y el fomento del desarrollo, lo que a su vez supone un apoyo fuerte a los derechos humanos y fundamentales.</p><p>Por otro lado, debemos ser conscientes de que la responsabilidad social corporativa está regida por una normativa básica y se mide mediante unos determinados parámetros.\n</p><p>\n</p><p>La normativa básica que se encarga de regular este tipo de actuaciones se compone de dos partes fundamentales:\n</p><p>\n</p><p>– La declaración tripartita de principios que afecta a todas las empresas nacionales y multinacionales, así como la política social.\n</p><p>\n</p><p>– La Resolución del Parlamento Europeo en cuanto a la responsabilidad social de dichas empresas, con fecha del 13 de marzo de 2007.</p><p>Por su parte, aunque actualmente no existe un método estándar para medir la responsabilidad social corporativa o RSC de las diferentes empresas, se ha propuesto la elaboración de diferentes informes que puedan clasificar a las empresas en cuanto a su mayor o menor compromiso con las formas de actuación que avanzan en esta línea.\n</p><p>\n</p><p>Sin embargo, encontramos dos instrumentos que pueden ser muy útiles a la hora de conocer este grado de compromiso del que hablamos. Por un lado se encuentra el Ranking de Sustentabilidad Empresarial PROhumana, que se puede utilizar para fomentar el aprendizaje en las empresas mediante un mayor conocimiento de las políticas con las que trabajan y proponiendo mejoras.</p><p>Ejemplos reales de responsabilidad social corporativa o RSC\n</p><p>La empresa de soluciones auditivas GAES, de la mano de su directora, María José Gassó, ha colaborado en distintos proyectos con los que hemos conseguido acercar la tecnología de la audición a niños en Yancana Huasy, en Perú, e intentar así solucionar algunos de sus problemas más habituales.</p><p>or otro lado, encontramos empresas que colaboran en esto mediante la comercialización de productos considerados solidarios, pues los beneficios van destinados a una causa de estas características. Un ejemplo de esto es la conocida marca Kukuxumusu, que gracias a su enorme reconocimiento es capaz de dar una gran visibilidad a los productos solidarios que comercializa.\n</p><p>\n</p><p>Por último, y a modo de resumen, no debemos olvidar que la responsabilidad social corporativa es muy importante, ya que actúa sobre los principales pilares que son necesarios para el desarrollo positivo de una sociedad: sobre los derechos humanos, las prácticas saludables de empleo, las principales cuestiones y los problemas medioambientales, la primacía de los intereses de los clientes como consumidores, la protección de la salud dentro del entorno laboral, lo que conllevará una buena salud también fuera de él, lucha contra la corrupción y el fraude, entre otros.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -390,7 +336,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#26272c",
@@ -405,33 +351,20 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-u"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "contacto",
-        "order": 1
-      },
-      "components": [
+        },
         {
-          "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5cb85c"
+            "color": "#fbfbfb",
+            "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "alias": "purity/components",
-          "_tags": [
-            "Tema"
-          ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -446,21 +379,27 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
-          "_name": "ext.menu",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#5cb85c"
-            },
-            ".nav-link": {
-              "font-size": "20px"
-            },
-            ".navbar-brand": {
-              "font-size": "25px"
+              "color": "#000"
             }
-          },
-          "_anchor": "ext_menu-r"
-        },
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "contacto",
+        "order": 1
+      },
+      "components": [
         {
           "_params": {
             "showTitle": true,
@@ -521,7 +460,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#26272c",
@@ -536,6 +475,46 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-u"
+        },
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fbfbfb",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
         }
       ]
     }
