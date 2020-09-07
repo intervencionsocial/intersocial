@@ -47,7 +47,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -286,7 +286,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -390,7 +390,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
