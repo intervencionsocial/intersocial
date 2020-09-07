@@ -19,7 +19,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -253,6 +253,46 @@
             "P": {
               "font-size": "15px"
             },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Subscribir Nuestra Noticias.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Subscribe</a>",
+          "form": {
+            "action": "inf-intersocial@outlook.com",
+            "alerts": {
+              "success": "Gracias por utilizar nuestro formulario !"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ingrese su correo electronico..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-j",
+          "_styles": {
             ".mbr-section-title": {
               "font-size": "30px"
             }
