@@ -11,6 +11,9 @@
 #header2-j H1 {
   color: #000000;
 }
+#header2-j B {
+  font-size: 30px;
+}
 #content5-l .mbr-section-title {
   font-size: 30px;
 }
@@ -20,11 +23,26 @@
 #content5-n P {
   font-size: 15px;
 }
+#content5-n .mbr-section-title {
+  font-size: 30px;
+}
+#social-buttons2-t .mbr-section-title {
+  font-size: 30px;
+}
+#footer1-u P {
+  color: #000000;
+}
+#footer1-u P {
+  color: #000000;
+}
 #menu-i .navbar-toggler {
   color: #000;
 }
 #form1-s .mbr-section-title {
   color: #f8f8f6;
+}
+#footer1-u P {
+  color: #000000;
 }
 #menu-i .navbar-toggler {
   color: #000;

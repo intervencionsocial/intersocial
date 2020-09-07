@@ -54,7 +54,7 @@
             "color": "#fbfbfb",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbrib-map-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbrib-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactanos</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -180,6 +180,9 @@
             },
             "H1": {
               "color": "#000000"
+            },
+            "B": {
+              "font-size": "30px"
             }
           }
         },
@@ -238,8 +241,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": "0.4"
           },
-          "title": "¿Cómo puedes Intervenir?\n",
-          "caption": "<p><b><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>1.- Mejorando Vida</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></b></p><p><span style=\"font-size: 1.25rem;\"><b>2.- Colabora en proyectos solidarios\n</b></span></p><p><b><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></b></p><p><span style=\"font-size: 1.25rem;\"><b>\n</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>3.- Responsabilidad Social Corporativa</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.<a href=\"page1.html\">Leer Más</a></b></span><br></p>",
+          "title": "<b>¿Cómo puedes Intervenir?\n</b>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></p><p><span style=\"font-size: 1.25rem;\">1.- Mejorando Vida</span></p><p><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></p><p><span style=\"font-size: 1.25rem;\">2.- Colabora en proyectos solidarios\n</span></p><p><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></p><p><span style=\"font-size: 1.25rem;\">\n</span></p><p><span style=\"font-size: 1.25rem;\">3.- Responsabilidad Social Corporativa</span></p><p><span style=\"font-size: 1.25rem;\">Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.<a href=\"page1.html\">Leer Más</a></span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
@@ -249,6 +252,9 @@
           "_styles": {
             "P": {
               "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           }
         },
@@ -272,7 +278,12 @@
             "Tema"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-t"
+          "_anchor": "social-buttons2-t",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_params": {
@@ -287,13 +298,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": "0"
           },
-          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "text": "<b>Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.</b>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-u"
+          "_anchor": "footer1-u",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -344,13 +360,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": "0"
           },
-          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "text": "<b>Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.</b>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-u"
+          "_anchor": "footer1-u",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -363,7 +384,7 @@
             "color": "#fbfbfb",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbrib-map-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbrib-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactanos</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -468,13 +489,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": "0"
           },
-          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "text": "<b>Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.</b>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-u"
+          "_anchor": "footer1-u",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -487,7 +513,7 @@
             "color": "#fbfbfb",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbrib-map-pin mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-l\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbrib-letter mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactanos</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
