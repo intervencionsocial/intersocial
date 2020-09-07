@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -172,7 +172,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "<b>InterSocial</b>",
-          "text": "La intervencion social&nbsp; consiste en luchar contra todo aquello que se considere en contra de cualquier derecho de las personas. La intervencion social &nbsp;lucha en contra de las desigualdades, de la pobreza, de la violencia y, al fin y al cabo, de las injusticias en general. Se puede llevar a cabo esta intervencion, a través de donaciones o colaboraciones con entidades que realicen trabajos con estos objetivos o bien por cuenta propia, aunque esto suele ser más complicado. En la actualidad existen numerosas asociaciones u organizaciones no gubernamentales que tienen como reto conseguir cambiar el mundo a mejor.<br>",
+          "text": "La <b>Intervencion Social</b>&nbsp; consiste en luchar contra todo aquello que se considere en contra de cualquier derecho de las personas. La intervencion social &nbsp;lucha en contra de las desigualdades, de la pobreza, de la violencia y, al fin y al cabo, de las injusticias en general. Se puede llevar a cabo esta intervencion, a través de donaciones o colaboraciones con entidades que realicen trabajos con estos objetivos o bien por cuenta propia, aunque esto suele ser más complicado. En la actualidad existen numerosas asociaciones u organizaciones no gubernamentales que tienen como reto conseguir cambiar el mundo a mejor.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">contactarnos</a>",
           "alias": "purity/components",
           "_tags": [
@@ -210,7 +210,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "<b>¿Qué se pretende con la Intervencion Social?\n</b>",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">La Intervencion social &nbsp;suele ir dirigida ciudadanos , a los jóvenes y a las mujeres. Tiene como objetivo provocar cambios y mejoras realmente efectivas en sus vidas, proporcionarles aquellas herramientas y conocimientos adecuados que les permitan conocer y ejercer de mejor forma sus derechos, siendo ellos mismos los propios protagonistas de su progreso. Todo esto llevado a cabo de la manera más transparente posible, rindiendo cuentas a los colaboradores de la Intervencion Social &nbsp;presta estos servicios y a aquellas personas que hacen posible que se puedan conseguir estos retos.</span><br></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">La <b>Intervencion Social </b>&nbsp;suele ir dirigida ciudadanos , a los jóvenes y a las mujeres. Tiene como objetivo provocar cambios y mejoras realmente efectivas en sus vidas, proporcionarles aquellas herramientas y conocimientos adecuados que les permitan conocer y ejercer de mejor forma sus derechos, siendo ellos mismos los propios protagonistas de su progreso. Todo esto llevado a cabo de la manera más transparente posible, rindiendo cuentas a los colaboradores de la Intervencion Social &nbsp;presta estos servicios y a aquellas personas que hacen posible que se puedan conseguir estos retos.</span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Tema"
@@ -467,7 +467,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -475,7 +475,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.7"
           },
-          "title": "Contactanos",
+          "title": "<b>Contactanos</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn\"></span>Contactar</a>",
           "form": {
             "action": "inf-intersocial@outlook.com",
@@ -509,7 +509,12 @@
             "Tema"
           ],
           "_name": "form1",
-          "_anchor": "form1-s"
+          "_anchor": "form1-s",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f8f8f6"
+            }
+          }
         },
         {
           "_params": {
