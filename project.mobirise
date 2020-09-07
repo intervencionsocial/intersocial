@@ -1,0 +1,501 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Virtual Revolution",
+      "nameSelectPreset": "article",
+      "additionalSetColors": [
+        "#890606"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Intervencion Social",
+    "versionFirst": "4.10.6",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/images-128x83-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "uniqCompNum": 32,
+    "versionPublish": "4.10.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Inicio",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-g",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/spot-188x269.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/T3yM7_S_huk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/T3yM7_S_huk",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "INTERSOCIAL",
+          "text": "<b>Intervencion Social , Palenque,Chiapas</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conocenos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Información</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-i",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen3-263x192.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "InterSocial",
+          "text": "La <b>intervencion social&nbsp;</b> consiste en luchar contra todo aquello que se considere en contra de cualquier derecho de las personas. <b>La intervencion social</b> &nbsp;lucha en contra de las desigualdades, de la pobreza, de la violencia y, al fin y al cabo, de las injusticias en general. Se puede llevar a cabo esta intervencion, a través de donaciones o colaboraciones con entidades que realicen trabajos con estos objetivos o bien por cuenta propia, aunque esto suele ser más complicado. En la actualidad existen numerosas asociaciones u organizaciones no gubernamentales que tienen como reto conseguir cambiar el mundo a mejor.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">contactarnos</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-j",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen1-346x146.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>¿Qué se pretende con la Intervencion Social?\n</b>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">La <b>Intervencion social</b> &nbsp;suele ir dirigida ciudadanos , a los jóvenes y a las mujeres. Tiene como objetivo provocar cambios y mejoras realmente efectivas en sus vidas, proporcionarles aquellas herramientas y conocimientos adecuados que les permitan conocer y ejercer de mejor forma sus derechos, siendo ellos mismos los propios protagonistas de su progreso. Todo esto llevado a cabo de la manera más transparente posible, rindiendo cuentas a los colaboradores de la <b>Intervencion Social</b> &nbsp;presta estos servicios y a aquellas personas que hacen posible que se puedan conseguir estos retos.</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen2-800x558.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "¿Cómo puedes Intervenir?\n",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Precisamente, si quieres formar parte de esas personas que nos ayudan y hacen posible nuestro proyecto, puedes hacerlo a través de diferentes formas. A continuación te las explicamos.</span><br></p><p><span style=\"font-size: 1.25rem;\"><b>Mejorando Vida</b></span></p><p><span style=\"font-size: 1.25rem;\">Puedes mejorar las vidas y el futuro de cualquier niño de Palenque , Chiapas tan solo con donar ( Alimento , Vestimenta , Calzados , Material Educativo ) . Ayudarás a que consiga una mejor vida y a que tenga acceso a una educación y a una mejor salud.\n&nbsp;</span><span style=\"font-size: 1.25rem;\">No solo le aportarás aspectos positivos al niño, sino que tú también conseguirás que se cree un vínculo de amistad entre ambos, acercándote a una realidad que hasta ahora no habías conocido. Tendrás constancia de la vida del niño, sabiendo cómo evoluciona día a día, a través de cartas que él mismo te envía. Gracias a una pequeña aportación, estarás marcando una gran diferencia. &nbsp;</span><span style=\"font-size: 1.25rem;\">Puedes confiar en nosotros, ya que nuestro trabajo de tantos años demuestra que hemos cambiado la vida de &nbsp;personas . Además, gracias a poder seguir el progreso del niño, te darás cuenta de que la donacion es utilizado correctamente.</span><br></p><p><span style=\"font-size: 1.25rem;\"><b>Colabora en proyectos solidarios\n</b></span></p><p><span style=\"font-size: 1.25rem;\">Desarrollamos numerosos proyectos de ayuda social . Estos proyectos van enfocados principalmente a la lucha a favor de los derechos de la mujer , protección de los niños y niñas &nbsp;y a los ciudadanos en riesgo de exclusión o emergencia.&nbsp;</span><span style=\"font-size: 1.25rem;\">Gracias a la aportación que realices, podremos mejorar la vida de aquellos &nbsp;con capacidades o enfermedades . También lucharemos contra situaciones de violación de derechos en algunas zonas indiguenas.</span></p><p><span style=\"font-size: 1.25rem;\">\n</span></p><p><span style=\"font-size: 1.25rem;\">Las empresas también tienen una forma de Ayuda Social, y es adoptar en ella la llamada responsabilidad social corporativa, ¿quieres saber lo que es? Te lo contamos en el siguiente enlace.Leer Más</span><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siguenos",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/gabrielandero\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Intervenci%C3%B3n-Social-103187468196700\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>     ",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen3-263x192.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "ext_menu-o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>¿Qué te sugieren las palabras “responsabilidad social corporativa” o sus siglas RSC? ¿Empresa? ¿Sociedad? No vas mal encaminado. Pero, con el fin de que conozcas el tema mucho más a fondo, hoy queremos explicarte en qué consiste y cuáles son las principales formas de actuación de esta nueva visión del sector empresarial.\n</p><p>\n</p><p>Como ya mencionábamos antes, la responsabilidad social corporativa o RSC es una determinada forma de actuación que adoptan las empresas, basándose principalmente en los posibles impactos que su actividad puede ocasionar tanto en su entorno más cercano (los clientes y los empleados), como en el entorno que las rodea (la sociedad y el medio ambiente).</p><p>Si bien es cierto que la definición de responsabilidad social corporativa puede variar dependiendo de los diferentes puntos en los que esta se aplique, existen algunos conceptos o elementos básicos que no pueden faltar en ninguna de ellas y que será primordial tener siempre presente.\n</p><p>\n</p><p>Principios de la responsabilidad social corporativa o RSCl compromiso por parte de las empresas: para que esta visión se transmita a la sociedad a través de su actividad.\n</p><p>\n</p><p>La conducta ética: mediante la práctica de negocios que se consideren aceptables desde un punto de vista social, más allá de las propias expectativas de la actividad empresarial.\n</p><p>\n</p><p>La adaptabilidad: por la que la responsabilidad social corporativa variará en función de los objetivos de la misma y el entorno en el que se vaya a aplicar, procurando una accesibilidad lo más amplia posible para todo tipo de personas.\n</p><p>\n</p><p>El desempeño ambiental: porque ninguna sociedad puede llevar un buen nivel de vida en cuanto a bienestar sin un entorno propicio para ello.\n</p><p>\n</p><p>Todo esto cobra sentido en el momento en el que somos conscientes de que el concepto de responsabilidad social corporativa o RSC surge ante una mayor apertura del mundo, gracias a la globalización, pues es importante que, si vamos a abrirnos al mundo lo hagamos de una manera responsable y respetuosa.\n</p><p>\n</p><p>Una vez conocidas las bases de esta forma de actuación, podemos ver los principales beneficios que esta conlleva tanto para las empresas como para la sociedad en sí, responsables primeros de que esa iniciativa se encuentre cada vez más extendida.</p><p>Beneficios de las actividades en torno a la responsabilidad social corporativa o RSC\n</p><p>Los beneficios obtenidos son los siguientes:\n</p><p>\n</p><p>– Mejora en la productividad de los trabajadores, mediante el acceso a servicios que se encarguen del cuidado de sus hijos, por ejemplo.\n</p><p>\n</p><p>– Proporcionar una satisfacción asegurada por parte de los clientes. Esto puede abarcar desde una fuerte política de protección de datos hasta la integridad en la creación de los productos o servicios que se proporcionan a los clientes.</p><p>– Disminución de costes, tales como el de alquiler (gracias a la flexibilidad de los horarios), los costes por bajas médicas (gracias a políticas que aseguren el bienestar de los trabajadores dentro de la empresa), etc.\n</p><p>\n</p><p>– Mejora en la reputación y la imagen de la propia empresa, ya que el hecho de que esta se encuentre comprometida con los valores fundamentales tanto en pro de la sociedad, como del medio ambiente harán que la percepción que se tenga de ella sea mucho más positiva.\n</p><p>\n</p><p>– Contribución a la reducción de la pobreza y el fomento del desarrollo, lo que a su vez supone un apoyo fuerte a los derechos humanos y fundamentales.</p><p>Por otro lado, debemos ser conscientes de que la responsabilidad social corporativa está regida por una normativa básica y se mide mediante unos determinados parámetros.\n</p><p>\n</p><p>La normativa básica que se encarga de regular este tipo de actuaciones se compone de dos partes fundamentales:\n</p><p>\n</p><p>– La declaración tripartita de principios que afecta a todas las empresas nacionales y multinacionales, así como la política social.\n</p><p>\n</p><p>– La Resolución del Parlamento Europeo en cuanto a la responsabilidad social de dichas empresas, con fecha del 13 de marzo de 2007.</p><p>Por su parte, aunque actualmente no existe un método estándar para medir la responsabilidad social corporativa o RSC de las diferentes empresas, se ha propuesto la elaboración de diferentes informes que puedan clasificar a las empresas en cuanto a su mayor o menor compromiso con las formas de actuación que avanzan en esta línea.\n</p><p>\n</p><p>Sin embargo, encontramos dos instrumentos que pueden ser muy útiles a la hora de conocer este grado de compromiso del que hablamos. Por un lado se encuentra el Ranking de Sustentabilidad Empresarial PROhumana, que se puede utilizar para fomentar el aprendizaje en las empresas mediante un mayor conocimiento de las políticas con las que trabajan y proponiendo mejoras.</p><p>Ejemplos reales de responsabilidad social corporativa o RSC\n</p><p>La empresa de soluciones auditivas GAES, de la mano de su directora, María José Gassó, ha colaborado en distintos proyectos con los que hemos conseguido acercar la tecnología de la audición a niños en Yancana Huasy, en Perú, e intentar así solucionar algunos de sus problemas más habituales.</p><p>or otro lado, encontramos empresas que colaboran en esto mediante la comercialización de productos considerados solidarios, pues los beneficios van destinados a una causa de estas características. Un ejemplo de esto es la conocida marca Kukuxumusu, que gracias a su enorme reconocimiento es capaz de dar una gran visibilidad a los productos solidarios que comercializa.\n</p><p>\n</p><p>Por último, y a modo de resumen, no debemos olvidar que la responsabilidad social corporativa es muy importante, ya que actúa sobre los principales pilares que son necesarios para el desarrollo positivo de una sociedad: sobre los derechos humanos, las prácticas saludables de empleo, las principales cuestiones y los problemas medioambientales, la primacía de los intereses de los clientes como consumidores, la protección de la salud dentro del entorno laboral, lo que conllevará una buena salud también fuera de él, lucha contra la corrupción y el fraude, entre otros.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen3-263x192.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "contacto",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#5cb85c"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\"></span>Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-j\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn-parent\"></span>Nosotros</a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn-parent\"></span>Contactar</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>Intervencion Social</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#5cb85c"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Contactanos",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbrib-like mbr-iconfont mbr-iconfont-btn\"></span>Contactar</a>",
+          "form": {
+            "action": "inf-intersocial@outlook.com",
+            "alerts": {
+              "success": "Gracias por llenar nuestro formulario !"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre y Apellidos:"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Whatsapp:"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje:"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imagen3-263x192.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 Intervencion Social , Palenque , Chiapas.",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-u"
+        }
+      ]
+    }
+  }
+}
